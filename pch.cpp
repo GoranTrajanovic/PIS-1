@@ -2,4 +2,9 @@
 
 #include "pch.h"
 
+class NewClass {
+private:
+	int zbroj;
+};
+
 // In general, ignore this file, but keep it around if you are using pre-compiled headers.
